@@ -2,6 +2,6 @@
   "effect_classes" : ["HealthEffect", "StaminaEffect"],
   "combat_effect_classes" : [],
   "item_classes" : ["item", "consumable", "usable", "wearable", "wieldable"],
-  "action_classes" : ["InventoryAction", "SaveAction", "StoreAction", "DialogueAction", "MoveAction'],
+  "action_classes" : ["InventoryAction", "SaveAction", "StoreAction", "DialogueAction", "MoveAction"],
   "event_classes" : ["ItemEvent", "FlagEvent"]
 }
