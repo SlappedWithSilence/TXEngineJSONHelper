@@ -57,7 +57,6 @@ Here's why you might need this utility when using the TXEngine:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 
 
